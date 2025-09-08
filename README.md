@@ -33,6 +33,7 @@ The app should have:
    * Notice how variants are generated automatically when you enter multiple values.
    * Check how Price, Inventory, and Img upload fields behave per variant.
    * Make sure to clone the variant component exactly with all functionalities.
+     
    <img width="1047" height="743" alt="image" src="https://github.com/user-attachments/assets/9a19dfbd-55d7-4d63-8519-cf3898877047" />
 
 
